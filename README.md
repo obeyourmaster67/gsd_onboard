@@ -1,6 +1,7 @@
 # gsd_onboard
 university thesis project
 
+gsd_gcs: https://github.com/obeyourmaster67/gsd_gcs
 
 <img width="1280" height="961" alt="5893519944681459715" src="https://github.com/user-attachments/assets/a76300ed-51b1-42dd-ba53-09c3361a8c24" />
 
